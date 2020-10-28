@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\01 - Ein Guter Start\EinAuslesen\EinAuslesen\bin\Debug\EinAuslesen.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\01 - Ein Guter Start\EinAuslesen\EinAuslesen\bin\Debug\EinAuslesen.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\01 - Ein Guter Start\EinAuslesen\EinAuslesen\bin\Debug\EinAuslesen.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\01 - Ein Guter Start\EinAuslesen\EinAuslesen\obj\Debug\EinAuslesen.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\01 - Ein Guter Start\EinAuslesen\EinAuslesen\obj\Debug\EinAuslesen.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\01 - Ein Guter Start\EinAuslesen\EinAuslesen\obj\Debug\EinAuslesen.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\01 - Ein Guter Start\EinAuslesen\EinAuslesen\obj\Debug\EinAuslesen.pdb
