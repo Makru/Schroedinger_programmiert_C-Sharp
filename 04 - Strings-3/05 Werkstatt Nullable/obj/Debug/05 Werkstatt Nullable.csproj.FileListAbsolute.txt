@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Werkstatt Nullable\obj\Debug\05 Werkstatt Nullable.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Werkstatt Nullable\bin\Debug\05 Werkstatt Nullable.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Werkstatt Nullable\bin\Debug\05 Werkstatt Nullable.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Werkstatt Nullable\bin\Debug\05 Werkstatt Nullable.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Werkstatt Nullable\obj\Debug\05 Werkstatt Nullable.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Werkstatt Nullable\obj\Debug\05 Werkstatt Nullable.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Werkstatt Nullable\obj\Debug\05 Werkstatt Nullable.csproj.CoreCompileInputs.cache

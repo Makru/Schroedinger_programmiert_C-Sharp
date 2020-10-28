@@ -1,0 +1,3 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs

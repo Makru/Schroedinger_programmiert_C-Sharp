@@ -1,0 +1,12 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder1.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder1.AssemblyInfoInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder1.AssemblyInfo.cs
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\bin\Debug\netcoreapp3.1\StringBuilder1.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\bin\Debug\netcoreapp3.1\StringBuilder1.deps.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\bin\Debug\netcoreapp3.1\StringBuilder1.runtimeconfig.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\bin\Debug\netcoreapp3.1\StringBuilder1.runtimeconfig.dev.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\bin\Debug\netcoreapp3.1\StringBuilder1.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\bin\Debug\netcoreapp3.1\StringBuilder1.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder1.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder1.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\ConsoleApp1\obj\Debug\netcoreapp3.1\StringBuilder1.genruntimeconfig.cache
