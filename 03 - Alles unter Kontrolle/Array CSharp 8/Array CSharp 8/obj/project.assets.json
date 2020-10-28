@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\mathias.krueger\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mathias.krueger\\Desktop\\Schroedinger\\978-3-8362-6968-1\\Source\\03 - Alles unter Kontrolle\\Array CSharp 8\\Array CSharp 8\\Array CSharp 8.csproj",
+      "projectName": "Array CSharp 8",
+      "projectPath": "C:\\Users\\mathias.krueger\\Desktop\\Schroedinger\\978-3-8362-6968-1\\Source\\03 - Alles unter Kontrolle\\Array CSharp 8\\Array CSharp 8\\Array CSharp 8.csproj",
+      "packagesPath": "C:\\Users\\mathias.krueger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mathias.krueger\\Desktop\\Schroedinger\\978-3-8362-6968-1\\Source\\03 - Alles unter Kontrolle\\Array CSharp 8\\Array CSharp 8\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mathias.krueger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

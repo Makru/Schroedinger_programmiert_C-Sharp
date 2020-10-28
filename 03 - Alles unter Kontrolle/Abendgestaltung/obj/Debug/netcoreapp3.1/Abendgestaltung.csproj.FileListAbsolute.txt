@@ -1,0 +1,13 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\bin\Debug\netcoreapp3.1\Abendgestaltung.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\bin\Debug\netcoreapp3.1\Abendgestaltung.deps.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\bin\Debug\netcoreapp3.1\Abendgestaltung.runtimeconfig.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\bin\Debug\netcoreapp3.1\Abendgestaltung.runtimeconfig.dev.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\bin\Debug\netcoreapp3.1\Abendgestaltung.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\bin\Debug\netcoreapp3.1\Abendgestaltung.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\obj\Debug\netcoreapp3.1\Abendgestaltung.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\obj\Debug\netcoreapp3.1\Abendgestaltung.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\obj\Debug\netcoreapp3.1\Abendgestaltung.AssemblyInfoInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\obj\Debug\netcoreapp3.1\Abendgestaltung.AssemblyInfo.cs
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\obj\Debug\netcoreapp3.1\Abendgestaltung.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\obj\Debug\netcoreapp3.1\Abendgestaltung.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Abendgestaltung\obj\Debug\netcoreapp3.1\Abendgestaltung.genruntimeconfig.cache
