@@ -1,0 +1,10 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\obj\Debug\netcoreapp2.2\else_if.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\obj\Debug\netcoreapp2.2\else_if.AssemblyInfoInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\obj\Debug\netcoreapp2.2\else_if.AssemblyInfo.cs
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\bin\Debug\netcoreapp2.2\else_if.deps.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\bin\Debug\netcoreapp2.2\else_if.runtimeconfig.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\bin\Debug\netcoreapp2.2\else_if.runtimeconfig.dev.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\bin\Debug\netcoreapp2.2\else_if.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\bin\Debug\netcoreapp2.2\else_if.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\obj\Debug\netcoreapp2.2\else_if.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\else_if\obj\Debug\netcoreapp2.2\else_if.pdb

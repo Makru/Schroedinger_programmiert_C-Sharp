@@ -1,0 +1,6 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Primzahlen\bin\Debug\Primzahlen.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Primzahlen\bin\Debug\Primzahlen.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Primzahlen\bin\Debug\Primzahlen.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Primzahlen\obj\Debug\Primzahlen.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Primzahlen\obj\Debug\Primzahlen.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\03 - Alles unter Kontrolle\Primzahlen\obj\Debug\Primzahlen.pdb
