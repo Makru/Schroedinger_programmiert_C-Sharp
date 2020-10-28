@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\Codes02\bin\Debug\Codes02.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\Codes02\bin\Debug\Codes02.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\Codes02\bin\Debug\Codes02.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\Codes02\obj\Debug\Codes02.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\Codes02\obj\Debug\Codes02.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\Codes02\obj\Debug\Codes02.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\Codes02\obj\Debug\Codes02.csproj.CoreCompileInputs.cache

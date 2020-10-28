@@ -1,0 +1,11 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\05 - Eine endliche Geschichte\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
