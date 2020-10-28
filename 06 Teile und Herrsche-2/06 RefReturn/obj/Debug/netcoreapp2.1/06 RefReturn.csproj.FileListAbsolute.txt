@@ -1,0 +1,12 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\bin\Debug\netcoreapp2.1\06 RefReturn.deps.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\bin\Debug\netcoreapp2.1\06 RefReturn.runtimeconfig.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\bin\Debug\netcoreapp2.1\06 RefReturn.runtimeconfig.dev.json
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\bin\Debug\netcoreapp2.1\06 RefReturn.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\bin\Debug\netcoreapp2.1\06 RefReturn.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\obj\Debug\netcoreapp2.1\06 RefReturn.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\obj\Debug\netcoreapp2.1\06 RefReturn.AssemblyInfoInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\obj\Debug\netcoreapp2.1\06 RefReturn.AssemblyInfo.cs
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\obj\Debug\netcoreapp2.1\06 RefReturn.dll
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\obj\Debug\netcoreapp2.1\06 RefReturn.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\obj\Debug\netcoreapp2.1\06 RefReturn.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 RefReturn\obj\Debug\netcoreapp2.1\06 RefReturn.genruntimeconfig.cache

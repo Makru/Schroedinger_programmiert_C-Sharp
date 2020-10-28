@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Teile und Herrsche\bin\Debug\06 Teile und Herrsche.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Teile und Herrsche\bin\Debug\06 Teile und Herrsche.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Teile und Herrsche\bin\Debug\06 Teile und Herrsche.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Teile und Herrsche\obj\Debug\06 Teile und Herrsche.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Teile und Herrsche\obj\Debug\06 Teile und Herrsche.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Teile und Herrsche\obj\Debug\06 Teile und Herrsche.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Teile und Herrsche\obj\Debug\06 Teile und Herrsche.pdb

@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Tauschgeschäfte 01\bin\Debug\06 Tauschgeschäfte 01.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Tauschgeschäfte 01\bin\Debug\06 Tauschgeschäfte 01.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Tauschgeschäfte 01\bin\Debug\06 Tauschgeschäfte 01.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Tauschgeschäfte 01\obj\Debug\06 Tauschgeschäfte 01.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Tauschgeschäfte 01\obj\Debug\06 Tauschgeschäfte 01.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Tauschgeschäfte 01\obj\Debug\06 Tauschgeschäfte 01.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Tauschgeschäfte 01\obj\Debug\06 Tauschgeschäfte 01.csproj.CoreCompileInputs.cache
