@@ -1,0 +1,6 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Kochrezept1\bin\Debug\06 Kochrezept1.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Kochrezept1\bin\Debug\06 Kochrezept1.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Kochrezept1\bin\Debug\06 Kochrezept1.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Kochrezept1\obj\Debug\06 BMI.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Kochrezept1\obj\Debug\06 Kochrezept1.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Kochrezept1\obj\Debug\06 Kochrezept1.pdb

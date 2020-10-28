@@ -1,0 +1,4 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Division\obj\Debug\netcoreapp3.1\06 Division.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Division\obj\Debug\netcoreapp3.1\06 Division.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Division\obj\Debug\netcoreapp3.1\06 Division.AssemblyInfoInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Division\obj\Debug\netcoreapp3.1\06 Division.AssemblyInfo.cs

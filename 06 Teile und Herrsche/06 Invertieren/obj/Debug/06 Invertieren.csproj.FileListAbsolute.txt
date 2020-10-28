@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Invertieren\bin\Debug\06 Invertieren.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Invertieren\bin\Debug\06 Invertieren.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Invertieren\bin\Debug\06 Invertieren.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Invertieren\obj\Debug\06 Invertieren.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Invertieren\obj\Debug\06 Invertieren.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Invertieren\obj\Debug\06 Invertieren.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\06 Teile und Herrsche\06 Invertieren\obj\Debug\06 Invertieren.csproj.CoreCompileInputs.cache
