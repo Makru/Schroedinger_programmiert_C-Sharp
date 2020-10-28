@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Strings\bin\Debug\05 Strings.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Strings\bin\Debug\05 Strings.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Strings\bin\Debug\05 Strings.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Strings\obj\Debug\05 Strings.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Strings\obj\Debug\05 Strings.csproj.CoreCompileInputs.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Strings\obj\Debug\05 Strings.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Strings\obj\Debug\05 Strings.pdb

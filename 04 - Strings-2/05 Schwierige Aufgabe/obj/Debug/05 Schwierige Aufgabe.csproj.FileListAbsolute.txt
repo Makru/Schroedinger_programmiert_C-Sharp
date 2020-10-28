@@ -1,0 +1,7 @@
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Schwierige Aufgabe\bin\Debug\05 Schwierige Aufgabe.exe.config
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Schwierige Aufgabe\bin\Debug\05 Schwierige Aufgabe.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Schwierige Aufgabe\bin\Debug\05 Schwierige Aufgabe.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Schwierige Aufgabe\obj\Debug\05 Schwierige Aufgabe.exe
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Schwierige Aufgabe\obj\Debug\05 Schwierige Aufgabe.pdb
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Schwierige Aufgabe\obj\Debug\05 Schwierige Aufgabe.csprojAssemblyReference.cache
+C:\Users\mathias.krueger\Desktop\Schroedinger\978-3-8362-6968-1\Source\04 - Strings\05 Schwierige Aufgabe\obj\Debug\05 Schwierige Aufgabe.csproj.CoreCompileInputs.cache
