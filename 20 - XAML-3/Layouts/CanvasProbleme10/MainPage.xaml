@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="CanvasProbleme10.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CanvasProbleme10"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+	<Canvas Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+		<Button Content="Ich bin ein Button" Canvas.Left="76" Canvas.Top="41" Height="113" Width="301" Background="#FF18AC2C"/>
+		<Button Content="Uiuiui mich siehst du nicht ganz, weil ich außerhalb des Bildschirms bin!" Canvas.Left="933" Canvas.Top="79" Height="75" Width="573" Background="#FF235295" />
+		<Button Content="Ich bin über dir! Oje" Canvas.Left="152" Canvas.Top="116" Height="113" Width="301" Background="#FFB83622"/>
+
+	</Canvas>
+</Page>
