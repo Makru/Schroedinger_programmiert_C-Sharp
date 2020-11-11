@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="V2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:V2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.DataContext>
+        <local:MainViewViewModel />
+    </Page.DataContext>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="125*"/>
+            <ColumnDefinition Width="558*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Column="1" Source="{Binding Active.ImagePath}"/>
+
+        <StackPanel Orientation="Vertical" Grid.Column="0">
+            <Slider Header="Tassengröße" Minimum="0" Maximum="2" Value="{Binding Size, Mode=TwoWay}" />
+            <TextBlock Text="{Binding Active.Name}" />
+        </StackPanel>
+    </Grid>
+</Page>
