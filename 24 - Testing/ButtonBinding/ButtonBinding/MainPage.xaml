@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="ButtonBinding.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ButtonBinding"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.DataContext>
+        <local:MainPageViewModel />
+    </Page.DataContext>
+    <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox TextWrapping="Wrap" Header="Bitte Namen eingeben" x:Name="text" />
+        <Button Content="Dann hier klicken" Command="{Binding SayHelloCommand}" CommandParameter="{Binding ElementName=text, Path=Text}" />
+        <TextBlock Text="{Binding Message}" />
+    </StackPanel>
+</Page>
