@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="_02Template10.Views.SchroedingerPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_02Template10.Views"
+    xmlns:vm="using:_02Template10.ViewModels"
+    xmlns:controls="using:Template10.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.DataContext>
+        <vm:SchroedingerViewModel />
+    </Page.DataContext>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <controls:PageHeader Text="Schrödingers Seite" />
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Hallo ich bin Schrödingers neue Seite" />
+        </StackPanel>
+    </Grid>
+</Page>
